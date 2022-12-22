@@ -1,0 +1,11 @@
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\bin\Debug\examen_backend_NOE_FERNANDO.exe.config
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\bin\Debug\examen_backend_NOE_FERNANDO.exe
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\bin\Debug\examen_backend_NOE_FERNANDO.pdb
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.csproj.AssemblyReference.cache
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.csproj.SuggestedBindingRedirects.cache
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.Form1.resources
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.Properties.Resources.resources
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.csproj.GenerateResource.cache
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.csproj.CoreCompileInputs.cache
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.exe
+C:\Users\PrincipalNoe\source\repos\examen_backend_NOE_FERNANDO\obj\Debug\examen_backend_NOE_FERNANDO.pdb
